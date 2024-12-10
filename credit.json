@@ -1,6 +1,9 @@
 {
+ "app_marketing": "1",
+  "fb_marketing": "1",
   "app_live": "1",
-  "is_google_ad": "1",
+  "is_pre_ad": "1",
+  "is_google_ad": "0",
   "google_appopen": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_APP_OPEN_9928_191124",
   "google_interstitial": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_INTERSTITIAL_9930_191124",
   "google_native": "/229445249,22876756412/highR_RS88_ProfitGuruTradeCalculator_457_NATIVE_9929_191124",
